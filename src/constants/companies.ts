@@ -16,7 +16,7 @@ export const COMPANIES: Company[] = [
     id: 2,
     name: "셀트리온",
     description: "바이오시밀러 선두, 높은 입사 선호도",
-    link: "https://recruit.celltrion.com/main/recruit/46_3/index.jsp",
+    link: "https://celltrion.recruiter.co.kr/career/home",
   },
   {
     id: 3,
